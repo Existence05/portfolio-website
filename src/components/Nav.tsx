@@ -77,7 +77,7 @@ const Nav: React.FC = () => {
       <div className="flex md:order-2">
         <DarkThemeToggle />
         <a
-        href="https://www.linkedin.com/in/astitwo-pa71a7023b/"
+        href="https://www.linkedin.com/in/astitwo-p-a71a7023b/"
         target="_blank"
         rel="noopener noreferrer"
         className={`hidden md:flex mx-3 bg-gray-800 hover:bg-gray-900 py-2 px-4 transition-all duration-300 flex items-center gap-2 ${
