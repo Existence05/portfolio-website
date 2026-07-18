@@ -313,7 +313,7 @@ const App: React.FC = () => {
             astitwo.pandey@gmail.com — Signal: +1 (555) 000-1337
             </p>
             <p className="mb-8 font-light text-center text-gray-500 dark:text-gray-400 text-lg">
-            <a href="https://www.linkedin.com/in/astitwo-pa71a7023b/" target="_blank" rel="noopener" className="text-red-500 hover:underline">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/astitwo-p-a71a7023b/" target="_blank" rel="noopener" className="text-red-500 hover:underline">LinkedIn</a>
             </p>
           </div>
         </section>
